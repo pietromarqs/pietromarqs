@@ -1,10 +1,9 @@
-## Olá, meu nome é Pietro!
+## Olá, meu nome é Pietro Marques!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Sou estudante de Engenharia da Computação - FURG, tenho um claro desejo de aprender e consequentemente evoluir como profissional e pessoa.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Atualmente não estou trabalhando em nenhum projeto por estar focado na faculdade.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ---
 
