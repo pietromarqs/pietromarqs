@@ -4,6 +4,10 @@ Sou estudante de Engenharia da Computação - FURG, tenho um claro desejo de apr
 
 🔭 Atualmente estou focado em estudar CyberSegurança.
 
+I'm a Computer engineering student at FURG. I have a clear desire to learn and consequently evolve as a professional and person
+
+🔭 Currently focused on studying Cybersecurity
+
 
 ---
 
@@ -19,7 +23,7 @@ Sou estudante de Engenharia da Computação - FURG, tenho um claro desejo de apr
 ---
 
 
-## IDE'S USADAS
+## IDE'S
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
